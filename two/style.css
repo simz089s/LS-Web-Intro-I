@@ -1,0 +1,32 @@
+.greenbg {
+	width: 775px;
+	height: 700px;
+	background-color: green;
+}
+
+.redbg {
+	padding-top: 80px;
+	width: 775px;
+	height: 500px;
+	background-color: red;
+}
+
+.bluebg {
+	padding-left: 260px;
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+}
+
+.purplebg {
+	padding-left: 255px;
+	width: 260px;
+	height: 500px;
+	background-color: purple;
+}
+
+.yellowbg {
+	width: 260px;
+	height: 500px;
+	background-color: yellow;
+}
