@@ -1,0 +1,52 @@
+#purplebg {
+	padding-top: 100px;
+	width: 500px;
+	height: 550px;
+	background-color: purple;
+}
+
+#whitebg {
+	padding-left: 80px;
+	width: 500px;
+	height: 550px;
+	background-color: white;
+}
+
+#redbg {
+	width: 340px;
+	height: 550px;
+	background-color: red;
+}
+
+#bluesquares {
+	position: absolute;
+	margin-top: 32px;
+	margin-left: 50px;
+	width: 240px;
+	height: 450px;
+}
+
+.singlesquare {
+	position: relative;
+	width: 240px;
+	height: 150px;
+	background-color: blue;
+}
+
+.yellowsquare {
+	position: relative;
+	width: 75px;
+	height: 75px;
+	margin-left: 15px;
+	top: 10%;
+	background-color: yellow;
+}
+
+.greensquare {
+	position: relative;
+	width: 120px;
+	height: 100px;
+	margin-left: 105px;
+	top: -40%;
+	background-color: green;
+}
